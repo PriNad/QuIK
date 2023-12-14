@@ -1,2 +1,2 @@
 # QuIK
-Welcome to the website of Quantum Information Knowledge Workshop, ISIT 2024. 
+This GitHub page contains the code for the website for the Quantum Information Knowledge Workshop. 
