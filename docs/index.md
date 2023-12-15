@@ -22,7 +22,7 @@
 ### <font color="black"> Final manuscript submission: 2024 </font> 
 ### <font color="black"> Early registration deadline: Refer [ISIT website](https://2024.ieee-isit.org/workshops) </font> 
 ## Registration Details: 
-## <font color="black"> TBA </font> 
+### <font color="black"> TBA </font> 
 ## We look forward to seeing you at the workshop!
 ## Organizers:
 ### <font color="black"> Prof. Bane Vasic, University of Arizona </font> 
