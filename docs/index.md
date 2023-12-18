@@ -2,7 +2,7 @@
 ### <font color="black">
 The Quantum Information Knowledge (QuIK) workshop will be a part of the IEEE International Symposium on Information Theory (ISIT) 2024, the flagship conference of the IEEE Information Theory Society, held between 7th and 12th July 2024 at Athens, Greece. The goal of this first edition of the workshop is to provide foundational knowledge in quantum error correction for fault-tolerant quantum computing, complement that with exciting talks from invited speakers on the recent work in the area, foster discussions on key open problems, both foundational and practical ones, and discuss some of the latest results in the area. 
  </font>
-## The presentations and discussions in this workshop would cover a broad range of research topics in Fault-tolerant Quantum Computation, including but not limited to the following research areas:
+### <font color="black"> The presentations and discussions in this workshop would cover a broad range of research topics in Fault-tolerant Quantum Computation, including but not limited to the following research areas:</font>
 *	Quantum error correction codes for quantum computing
 *	Qubit/qudit decoding techniques and their implementation.
 *	Fault-tolerant quantum computing techniques, including, FT-MBQC, Foliated codes, Floquet codes, etc. 
