@@ -21,8 +21,8 @@ The Quantum Information Knowledge (QuIK) workshop will be a part of the IEEE Int
 ### <font color="black">Interested authors are encouraged to submit their previously unpublished work in the area of fault-tolerant quantum computation, including but not limited to the topics listed above in the website. The paper should be tailored to an audience comprising of engineers, mathematicians, and other researchers who are experts in classical coding and information theory. The accessibility of the paper to classical coding and information theorists would be one of the required criterias to accept the paper.</font>
 ### Paper Submission Details:
 #### <font color="black"> Call for Papers: Please click <a href="https://2024.ieee-isit.org/information-authors-0">here</a> for the website containing the information for authors such as paper format template and example, etc. Each paper will go through a rigorous review process. An author of an accepted paper but register and present a poster based on the paper at the workshop. The accepted papers presented as a poster will be published on the IEEE Xplore. Please note that these papers are not eligible for the Jack Keil Wolf ISIT Student Paper Award. </font> ####
-## Poster Submission Details:
-### <font color="black"> Call for Posters: Each poster will go through a rigorous review process. An author of an accepted poster has to register and present it at the workshop. The accepted posters will not be published on the IEEE Xplore. </font> 
+## Call for Posters:
+### <font color="black"> Each poster will go through a rigorous review process. An author of an accepted poster has to register and present it at the workshop. The accepted posters will not be published on the IEEE Xplore. </font> 
 ## Schedule:
 ### <font color="black"> TBD </font> 
 ## Important Dates:
