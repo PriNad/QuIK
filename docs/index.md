@@ -13,7 +13,6 @@ The Quantum Information Knowledge (QuIK) workshop will be a part of the IEEE Int
 *	Bosonic codes and their decoding techniques
 *	Fault-tolerance for specific algorithms, including overhead estimates, scaling laws of logical error rates, etc.
 
-### <font color="black"> The technical program consists of the following: TBA </font>
 ## Workshop dates:
 ### <font color="black"> One-day workshop during July 07-12, 2024. The exact date is yet to be decided. </font>
 ## Invited Speakers List:
