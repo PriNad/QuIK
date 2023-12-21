@@ -32,7 +32,7 @@
 ### <font color="black"> Please refer the <a href="https://2024.ieee-isit.org/workshops">ISIT website</a> for more details. </font> 
 ## We look forward to seeing you at the workshop!
 ## Organizers:
-### <font color="black"> Prof. Bane Vasi&#x107, University of Arizona </font> 
+### <font color="black"> Prof. Bane Vasi&#x0107, University of Arizona </font> 
 ### <font color="black"> Prof. Narayanan Rengaswamy, University of Arizona </font> 
 ### <font color="black"> Dr. Priya J. Nadkarni, Xanadu Quantum Technologies </font> 
 ## Frequently Asked Questions (FAQs):
