@@ -1,5 +1,5 @@
 ## Welcome to the website of the first Quantum Information Knowledge (QuIK) workshop to be held at Athens, Greece in July 2024
-### <font color="black">The Quantum Information Knowledge (QuIK) workshop will be a part of the IEEE International Symposium on Information Theory (ISIT) 2024, the flagship conference of the IEEE Information Theory Society, held between 7th and 12th July 2024 at Athens, Greece. The goal of this first edition of the workshop is to provide foundational knowledge in quantum error correction for fault-tolerant quantum computing, complement that with exciting talks from invited speakers on the recent work in the area, foster discussions on key open problems, both foundational and practical ones, and discuss some of the latest results in the area. </font>
+### <font color="black">The Quantum Information Knowledge (QuIK) workshop will be a part of the IEEE International Symposium on Information Theory (ISIT) 2024, the flagship conference of the IEEE Information Theory Society, held around 7th and 12th July 2024 at Athens, Greece. The goal of this first edition of the workshop is to provide foundational knowledge in quantum error correction for fault-tolerant quantum computing, complement that with exciting talks from invited speakers on the recent work in the area, foster discussions on key open problems, both foundational and practical ones, and discuss some of the latest results in the area. </font>
 ### <font color="black"> The workshop starts with a tutorial introducing basic concepts and research problems in fault-tolerant quantum computation, targeted to an audience with classical coding theory background. No prior quantum computing background is assumed. The tutorial will be followed by invited talks by various well-known researchers who are pushing the boundaries of fault-tolerant quantum computation research. There will be a poster sessions based on novel research work and key open problems in the research area of focus. The workshop will end with a panel discussion. </font>
 ### <font color="black"> The tutorial, presentations, and discussions in this workshop would cover a broad range of research topics in Fault-tolerant Quantum Computation, including but not limited to the following research areas:</font>
 *	Quantum error correction codes for quantum computing
@@ -32,7 +32,7 @@
 ### <font color="black"> Please refer the <a href="https://2024.ieee-isit.org/workshops">ISIT website</a> for more details. </font> 
 ## We look forward to seeing you at the workshop!
 ## Organizers:
-### <font color="black"> Prof. Bane Vasic, University of Arizona </font> 
+### <font color="black"> Prof. Bane Vasi&#x107, University of Arizona </font> 
 ### <font color="black"> Prof. Narayanan Rengaswamy, University of Arizona </font> 
 ### <font color="black"> Dr. Priya J. Nadkarni, Xanadu Quantum Technologies </font> 
 ## Frequently Asked Questions (FAQs):
