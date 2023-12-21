@@ -9,6 +9,7 @@
 *	Fault-tolerant quantum computing architectures
 *	Bosonic codes and their decoding techniques
 *	Fault-tolerance for specific algorithms, including overhead estimates, scaling laws of logical error rates, etc.
+<!-- end of the list -->
 ## Workshop dates:
 ### <font color="black"> One-day workshop around July 07-12, 2024. The exact date is yet to be decided. </font>
 ## Invited Speakers List:
@@ -22,14 +23,14 @@
 ### <font color="black">To make your submission for a poster on an open problem, write a 3-page extended abstract describing the challenge and the tentative contents of the poster. The page limit excludes references. This must not be a summary of a paper but an insightful description of a key problem in quantum error correction for fault-tolerant quantum computing that is palatable to a classical information theorist. The submission can be based on published work, but the poster must discuss an unsolved challenge related to that work and not just present the results of that work. After the poster session at the workshop, we encourage the presenters to provide us with the digital version of their posters so that they can be shared on the workshop website for later viewing by any of the attendees.</font>
 ### <font color="black">Each poster will go through a rigorous review process. An author of an accepted poster has to register and present it at the workshop. The accepted posters will not be published on the IEEE Xplore. </font> 
 ## Tentative Schedule:
-### <font color="black"> Tutorial on fault-tolerant quantum computing </font> 
-### <font color="black"> Keynote talk </font> 
-### <font color="black"> Lunch break </font> 
-### <font color="black"> Invited talks </font> 
-### <font color="black"> Snack break </font> 
-### <font color="black"> Invited talks </font> 
-### <font color="black"> Panel discussion </font> 
-### <font color="black"> Poster session </font> 
+#### <font color="black"> Tutorial on fault-tolerant quantum computing </font> 
+#### <font color="black"> Keynote talk </font> 
+#### <font color="black"> Lunch break </font> 
+#### <font color="black"> Invited talks </font> 
+#### <font color="black"> Snack break </font> 
+#### <font color="black"> Invited talks </font> 
+#### <font color="black"> Panel discussion </font> 
+#### <font color="black"> Poster session </font> 
 ## Important Dates:
 ### <font color="black"> Paper submission deadline: 29th February 2024 </font> 
 ### <font color="black"> Poster submission deadline: 7th March 2024 </font> 
