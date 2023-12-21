@@ -4,13 +4,13 @@
 ### <font color="black"> The workshop starts with a tutorial introducing basic concepts and research problems in fault-tolerant quantum computation, targeted to an audience with classical coding theory background. No prior quantum computing background is assumed. The tutorial will be followed by invited talks by various well-known researchers who are pushing the boundaries of fault-tolerant quantum computation research. The workshop will end with a panel discussion on the latest trends and a poster session based on novel research work and key open problems in the research area of focus.  </font>
 ## Topics of the Workshop:
 ### <font color="black"> The tutorial, presentations, and discussions in this workshop would cover a broad range of research topics in Fault-tolerant Quantum Computation, including but not limited to the following research areas:</font>
-### <font color="black">*	Quantum error correction codes for quantum computing</font>
-### <font color="black">*	Qubit/qudit decoding techniques and their implementation.</font>
-### <font color="black">*	Fault-tolerant quantum computing techniques, including, FT-MBQC, Foliated codes, Floquet codes, etc. </font>
-### <font color="black">*	Fault-tolerant logical gates and logical operator measurements</font>
-### <font color="black">*	Fault-tolerant quantum computing architectures</font>
-### <font color="black">*	Bosonic codes and their decoding techniques</font>
-### <font color="black">*	Fault-tolerance for specific algorithms, including overhead estimates, scaling laws of logical error rates, etc.</font>
+#### <font color="black">*	Quantum error correction codes for quantum computing</font>
+#### <font color="black">*	Qubit/qudit decoding techniques and their implementation.</font>
+#### <font color="black">*	Fault-tolerant quantum computing techniques, including, FT-MBQC, Foliated codes, Floquet codes, etc. </font>
+#### <font color="black">*	Fault-tolerant logical gates and logical operator measurements</font>
+#### <font color="black">*	Fault-tolerant quantum computing architectures</font>
+#### <font color="black">*	Bosonic codes and their decoding techniques</font>
+#### <font color="black">*	Fault-tolerance for specific algorithms, including overhead estimates, scaling laws of logical error rates, etc.</font>
 <!-- end of the list -->
 ## Workshop dates:
 ### <font color="black"> One-day workshop around July 07-12, 2024. The exact date is yet to be decided. </font>
