@@ -28,7 +28,7 @@ The tutorial, presentations, and discussions in this workshop would cover a broa
 
 ## Workshop date:
 <h3 style="color:black"> 
-One-day workshop to be held around July 7-12, 2024 (i.e., dates of ISIT 2024). The exact date will be announced soon. 
+Full-day workshop on July 7, 2024 (Sunday)
 </h3>
 
 ## Invited Speakers List:
@@ -99,5 +99,7 @@ Priya J. Nadkarni, Xanadu Quantum Technologies
 <h3 style="color:black">
 To be updated <br>
 <br>
-For any questions or concerns, e-mail <a href="mailto:narayananr@arizona.edu?subject=QuIK%202024">Narayanan Rengaswamy</a> (narayananr AT arizona DOT edu).
+Questions? <a href="mailto:narayananr@arizona.edu?cc=priya@xanadu.ai; vasic@ece.arizona.edu&subject=QuIK%202024">E-mail Narayanan Rengaswamy with Cc to Priya Nadkarni and Bane Vasić</a>
 </h3> 
+
+<h4 style="text-align:center"> Webpage last updated: December 22, 2023 </h4>
