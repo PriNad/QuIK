@@ -4,7 +4,7 @@
 ### <font color="black"> Please e-mail <a href="mailto:narayananr@arizona.edu?subject=[QuIK]%20Add%20to%20mailing%20list">Narayanan Rengaswamy</a> to be added to the mailing list for this workshop.
 
 ## Tentative Schedule:
-### <font color="black"> The workshop starts with a tutorial introducing fundamental concepts in QEC and FTQC, targeted at an audience with background in classical coding theory. No prior familiarity with quantum mechanics or quantum computing is assumed. The tutorial will be followed by invited talks by various well-known researchers who are pushing the boundaries of QEC and FTQC. The workshop will end with a panel discussion involving the invited speakers and a poster session based on novel research work and key open problems in FTQC.  </font>
+### <font color="black"> The workshop starts with a tutorial introducing basic concepts and research problems in fault-tolerant quantum computation, targeted to an audience with classical coding theory background. No prior quantum computing background is assumed. The tutorial will be followed by invited talks by various well-known researchers who are pushing the boundaries of fault-tolerant quantum computation research. The workshop will end with a panel discussion on the latest trends and a poster session based on novel research work and key open problems in the research area of focus.  </font>
 
 ## Topics of the Workshop:
 ### <font color="black"> The tutorial, presentations, and discussions in this workshop would cover a broad range of research topics in Fault-tolerant Quantum Computation, including but not limited to the following research areas:</font>
