@@ -38,6 +38,7 @@ Invited talks by fault-tolerant quantum computing experts from different backgro
   <ul>
     <li>Shayan Srinivasa Garani, Indian Institute of Science, Bangalore, India</li>
 	<li>Valentin Savin, Université Grenoble Alpes, CEA-Léti, Grenoble, France</li>
+	<li>Priya J. Nadkarni, Xanadu Quantum Technologies, Canada</li>
   </ul>
 </h3> 
 
