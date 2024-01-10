@@ -36,6 +36,7 @@ Full-day workshop on July 7, 2024 (Sunday)
 Invited talks by fault-tolerant quantum computing experts from different backgrounds such as physics, mathematics, electrical engineering, computer science, etc., are planned to cater different perspectives of this interdisciplinary field to the audience. The most updated invited speaker list is below: <br>
 <br>
   <ul>
+	<li>Liang Jiang, Univeristy of Chicago, USA (Keynote)</li>
     <li>Shayan Srinivasa Garani, Indian Institute of Science, Bangalore, India</li>
 	<li>Valentin Savin, Université Grenoble Alpes, CEA-Léti, Grenoble, France</li>
 	<li>Priya J. Nadkarni, Xanadu Quantum Technologies, Canada</li>
