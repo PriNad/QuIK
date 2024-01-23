@@ -22,13 +22,11 @@ th, td {
 }
 
 tr:nth-child(even) {
-  background-color: #FFDD94;
+  background-color: #39A786;
 }
 </style>
-</head>
-<body>
 
-<table style="width:50%">
+<table style="width:100%">
   <tr>
     <th>Time</th>
     <th>Event</th>
@@ -94,8 +92,6 @@ tr:nth-child(even) {
     <td>Poster Session</td>
   </tr>
 </table>
-
-</body>
 
 ## Topics of the Workshop:
 <h3 style="color:black">
