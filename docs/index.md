@@ -122,6 +122,7 @@ Invited talks by fault-tolerant quantum computing experts from different backgro
 	<li>Liang Jiang, University of Chicago, USA (Keynote)</li>
     <li>Shayan Srinivasa Garani, Indian Institute of Science, Bangalore, India</li>
 	<li>Valentin Savin, Université Grenoble Alpes, CEA-Léti, Grenoble, France</li>
+	<li>Nithin Raveendran, University of Arizona, Tucson, USA </li>
 	<li>Anirudh Krishna, IBM Quantum, USA </li>
 	<li>Priya J. Nadkarni, Xanadu Quantum Technologies, Canada</li>
   </ul>
