@@ -10,6 +10,93 @@ We have created a mailing list for this workshop to send updates. To join the ma
 The workshop starts with a tutorial introducing fundamental concepts in QEC and FTQC, targeted at an audience with background in classical coding theory. No prior familiarity with quantum mechanics or quantum computing is assumed. The tutorial will be followed by invited talks by various well-known researchers who are pushing the boundaries of QEC and FTQC. The workshop will end with a panel discussion involving the invited speakers and a poster session based on novel research work and key open problems in FTQC.  
 </h3>
 
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #FFDD94;
+}
+</style>
+</head>
+<body>
+
+<table style="width:50%">
+  <tr>
+    <th>Time</th>
+    <th>Event</th>
+  </tr>
+  <tr>
+    <td> 09:00 - 10:00</td>
+    <td>Tutorial</td>
+  </tr>
+  <tr>
+    <td>10:00 - 10:50</td>
+    <td>Keynote talk</td>
+  </tr>
+    <tr>
+    <td>10:50 - 11:00</td>
+    <td>Break</td>
+  </tr>
+  <tr>
+    <td>11:00 - 11:25</td>
+    <td>Invited talk 1</td>
+  </tr>
+  <tr>
+    <td>11:25 - 11:50</td>
+    <td>Invited talk 2</td>
+  </tr>
+  <tr>
+    <td>11:50 - 12:15</td>
+    <td>Invited talk 3</td>
+  </tr>
+  <tr>
+    <td>12:15 - 13:15</td>
+    <td>Lunch break</td>
+  </tr>
+  <tr>
+    <td>13:15 - 13:40</td>
+    <td>Invited talk 4</td>
+  </tr>
+  <tr>
+    <td>13:40 - 14:05</td>
+    <td>Invited talk 5</td>
+  </tr>
+    <tr>
+    <td>14:05 - 14:10</td>
+    <td>Break</td>
+  </tr>
+  <tr>
+    <td>14:10 - 14:35</td>
+    <td>Invited talk 6</td>
+  </tr>
+  <tr>
+    <td>14:35 - 15:00</td>
+    <td>Invited talk 7</td>
+  </tr>
+  <tr>
+    <td>15:00 - 15:15</td>
+    <td>Snack break</td>
+  </tr>
+    <tr>
+    <td>15:15 - 16:00</td>
+    <td>Panel Discussion</td>
+  </tr>
+  <tr>
+    <td>16:00 - 17:00</td>
+    <td>Poster Session</td>
+  </tr>
+</table>
+
+</body>
+
 ## Topics of the Workshop:
 <h3 style="color:black">
 The tutorial, presentations, and discussions in this workshop would cover a broad range of research topics in FTQC, including but not limited to the following: <br>
@@ -28,7 +115,7 @@ The tutorial, presentations, and discussions in this workshop would cover a broa
 
 ## Workshop date:
 <h3 style="color:black"> 
-Full-day workshop on July 7, 2024 (Sunday)
+Full-day workshop (in-person) on July 7, 2024 (Sunday)
 </h3>
 
 ## Invited Speakers List:
@@ -36,9 +123,10 @@ Full-day workshop on July 7, 2024 (Sunday)
 Invited talks by fault-tolerant quantum computing experts from different backgrounds such as physics, mathematics, electrical engineering, computer science, etc., are planned to cater different perspectives of this interdisciplinary field to the audience. The most updated invited speaker list is below: <br>
 <br>
   <ul>
-	<li>Liang Jiang, Univeristy of Chicago, USA (Keynote)</li>
+	<li>Liang Jiang, University of Chicago, USA (Keynote)</li>
     <li>Shayan Srinivasa Garani, Indian Institute of Science, Bangalore, India</li>
 	<li>Valentin Savin, Université Grenoble Alpes, CEA-Léti, Grenoble, France</li>
+	<li>Anirudh Krishna, IBM Quantum, USA </li>
 	<li>Priya J. Nadkarni, Xanadu Quantum Technologies, Canada</li>
   </ul>
 </h3> 
