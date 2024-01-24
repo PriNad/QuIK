@@ -2,11 +2,11 @@
 
 ## Welcome to the first Quantum Information Knowledge (QuIK) workshop, which will be held in Athens, Greece, during ISIT 2024!
 
-      <figure>
-        <div style="text-align: center;">
-           <img src="assets/images/QuIK_Logo.ico" alt="Trulli" style="width:25%">
-         </div>
-       </figure>       
+<figure>
+  <div style="text-align: center;">
+    <img src="assets/images/QuIK_Logo.ico" alt="Trulli" style="width:25%">
+  </div>
+</figure>       
 
 
 <h3 style="color:black"> 
