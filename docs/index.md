@@ -2,6 +2,12 @@
 
 ## Welcome to the first Quantum Information Knowledge (QuIK) workshop, which will be held in Athens, Greece, during ISIT 2024!
 
+      <figure>
+        <div style="text-align: center;">
+           <img src="assets/images/QuIK_Logo.ico" alt="Trulli" style="width:25%">
+         </div>
+       </figure>       
+
 
 <h3 style="color:black"> 
 The Quantum Information Knowledge (QuIK) workshop will be held as part of the <a href="https://2024.ieee-isit.org">IEEE International Symposium on Information Theory (ISIT) 2024</a>, the flagship conference of the <a href="https://www.itsoc.org/">IEEE Information Theory Society</a>. The long-term vision for this workshop is to establish a platform at ISIT for active discussions on problems in quantum information. The goal of this first edition of the workshop is to provide foundational knowledge in quantum error correction (QEC) for fault-tolerant quantum computing (FTQC), complement that with exciting talks by invited speakers working in this area, foster discussions on key open problems, both foundational and practical ones, and discuss some of the latest results in the field. <br>
