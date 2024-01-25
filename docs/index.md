@@ -143,7 +143,7 @@ Invited talks by fault-tolerant quantum computing experts from different backgro
 
 ## Call for Papers:
 <h3> 
-We invite interested authors to submit their previously unpublished work in the area of QEC/FTQC, including but not limited to the topics listed above. The paper should be tailored to an audience comprising engineers, mathematicians, and other researchers who are experts in classical coding and information theory. The accessibility of the paper to classical coding and information theorists would be a key criterion for acceptance of the paper. However, the results must necessarily address important questions in QEC/FTQC. Take a quantum leap on the coming leap day by submitting your paper on February 29th, 2024 (11:59 PM anywhere in the world)! 
+We invite interested authors to submit their previously unpublished work in the area of QEC/FTQC, including but not limited to the topics listed above. The paper should be tailored to an audience comprising engineers, mathematicians, and other researchers who are experts in classical coding and information theory. The accessibility of the paper to classical coding and information theorists would be a key criterion for acceptance of the paper. However, the results must necessarily address important questions in QEC/FTQC. <font color="#F28C28"> Take a quantum leap on the coming leap day by submitting your paper on February 29th, 2024 (11:59 PM anywhere in the world)! </font>
 </h3>
 
 <h4 style="color:#F28C28"> Paper Submission Details: </h4>
