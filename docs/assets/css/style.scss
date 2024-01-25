@@ -3,6 +3,49 @@
 
 @import 'jekyll-theme-cayman';
 
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #FFFFFF;
+  background-color: #000000;
+}
+
+a {
+  color: #F28C28;
+  text-decoration: underline;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.main-content {
+
+  h1,
+  h2 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: normal;
+    color: #F28C28;
+  }
+  
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: normal;
+    color: #FFFFFF;
+  }
+
+  background-color: #000000;
+  
+}
+
 footer {
   display: none !important;
 }
