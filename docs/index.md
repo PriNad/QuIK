@@ -38,18 +38,18 @@ tr:nth-child(odd) {
 }
 </style>
 
-<table style="width:50%">
+<table style="width:80%">
   <tr style="background-color: #F28C28">
     <th>Time</th>
     <th>Event</th>
   </tr>
   <tr>
     <td> 09:00 - 10:00</td>
-    <td>Tutorial</td>
+    <td>Tutorial on Quantum Error Correction and Fault-Tolerance</td>
   </tr>
   <tr>
     <td>10:00 - 10:50</td>
-    <td>Keynote talk</td>
+    <td>Keynote Talk</td>
   </tr>
   <tr style="background-color: #F28C28">
     <td>10:50 - 11:00</td>
@@ -57,27 +57,27 @@ tr:nth-child(odd) {
   </tr>
   <tr>
     <td>11:00 - 11:25</td>
-    <td>Invited talk 1</td>
+    <td>Invited Talk 1</td>
   </tr>
   <tr>
     <td>11:25 - 11:50</td>
-    <td>Invited talk 2</td>
+    <td>Invited Talk 2</td>
   </tr>
   <tr>
     <td>11:50 - 12:15</td>
-    <td>Invited talk 3</td>
+    <td>Invited Talk 3</td>
   </tr>
   <tr style="background-color: #F28C28">
     <td>12:15 - 13:15</td>
-    <td>Lunch break</td>
+    <td>Lunch Break</td>
   </tr>
   <tr>
     <td>13:15 - 13:40</td>
-    <td>Invited talk 4</td>
+    <td>Invited Talk 4</td>
   </tr>
   <tr>
     <td>13:40 - 14:05</td>
-    <td>Invited talk 5</td>
+    <td>Invited Talk 5</td>
   </tr>
   <tr style="background-color: #F28C28">
     <td>14:05 - 14:10</td>
@@ -85,15 +85,15 @@ tr:nth-child(odd) {
   </tr>
   <tr>
     <td>14:10 - 14:35</td>
-    <td>Invited talk 6</td>
+    <td>Invited Talk 6</td>
   </tr>
   <tr>
     <td>14:35 - 15:00</td>
-    <td>Invited talk 7</td>
+    <td>Invited Talk 7</td>
   </tr>
   <tr style="background-color: #F28C28">
     <td>15:00 - 15:15</td>
-    <td>Snack break</td>
+    <td>Snack Break</td>
   </tr>
     <tr>
     <td>15:15 - 16:00</td>
