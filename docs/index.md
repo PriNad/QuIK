@@ -24,11 +24,13 @@ The workshop starts with a tutorial introducing fundamental concepts in QEC and 
 table {
   border-collapse: collapse;
   width: 100%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 th, td {
-  text-align: left;
-  padding: 8px;
+  text-align: center;
+  padding: 15px;
 }
 
 tr:nth-child(even) {
@@ -36,7 +38,7 @@ tr:nth-child(even) {
 }
 </style>
 
-<table style="width:100%">
+<table style="width:40%">
   <tr>
     <th>Time</th>
     <th>Event</th>
@@ -129,12 +131,13 @@ Full-day workshop (in-person) on July 7, 2024 (Sunday)
 Invited talks by fault-tolerant quantum computing experts from different backgrounds such as physics, mathematics, electrical engineering, computer science, etc., are planned to cater different perspectives of this interdisciplinary field to the audience. The most updated invited speaker list is below: <br>
 <br>
   <ul>
-	<li>Liang Jiang, University of Chicago, USA (Keynote)</li>
+	<li>Liang Jiang, University of Chicago, Chicago, USA (Keynote)</li>
     <li>Shayan Srinivasa Garani, Indian Institute of Science, Bangalore, India</li>
 	<li>Valentin Savin, Université Grenoble Alpes, CEA-Léti, Grenoble, France</li>
 	<li>Nithin Raveendran, University of Arizona, Tucson, USA </li>
-	<li>Anirudh Krishna, IBM Quantum, USA </li>
-	<li>Priya J. Nadkarni, Xanadu Quantum Technologies, Canada</li>
+	<li>Anirudh Krishna, IBM Quantum, Yorktown Heights, USA </li>
+	<li>Priya J. Nadkarni, Xanadu Quantum Technologies, Toronto, Canada</li>
+	<li>Gretchen Matthews, Virginia Tech, Blacksburg, USA
   </ul>
 </h3> 
 
@@ -168,7 +171,7 @@ To make your submission for a poster on an open problem, please write a 3-page e
 <h3 style="color:black">
 Paper submission deadline: 29th February 2024 (11:59 PM anywhere in the world) <br>
 <br>
-Poster submission deadline: 7th March 2024 (11:59 PM anywhere in the world) <br>
+Poster submission deadline: 29th February 2024 (11:59 PM anywhere in the world) <br>
 <br>
 Acceptance notification: TBD <br>
 <br>
