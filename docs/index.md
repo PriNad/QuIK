@@ -10,8 +10,11 @@
 
 
 <h3> 
-The Quantum Information Knowledge (QuIK) workshop will be held as part of the <a href="https://2024.ieee-isit.org">IEEE International Symposium on Information Theory (ISIT) 2024</a>, the flagship conference of the <a href="https://www.itsoc.org/">IEEE Information Theory Society</a>. The long-term vision for this workshop is to establish a platform at ISIT for active discussions on problems in quantum information. The goal of this first edition of the workshop is to provide foundational knowledge in quantum error correction (QEC) for fault-tolerant quantum computing (FTQC), complement that with exciting talks by invited speakers working in this area, foster discussions on key open problems, both foundational and practical ones, and discuss some of the latest results in the field. <br>
-<br>
+The Quantum Information Knowledge (QuIK) workshop will be held as part of the <a href="https://2024.ieee-isit.org">IEEE International Symposium on Information Theory (ISIT) 2024</a>, the flagship conference of the <a href="https://www.itsoc.org/">IEEE Information Theory Society</a>. The long-term vision for this workshop is to establish a platform at ISIT for active discussions on problems in quantum information. The goal of this first edition of the workshop is to provide foundational knowledge in quantum error correction (QEC) for fault-tolerant quantum computing (FTQC), complement that with exciting talks by invited speakers working in this area, foster discussions on key open problems, both foundational and practical ones, and discuss some of the latest results in the field. 
+</h3>
+
+## Mailing List:
+<h3>
 We have created a mailing list for this workshop to send updates. To join the mailing list, <a href="mailto:list@list.arizona.edu?subject=subscribe%20isit-quik24%20firstname%20lastname&body=%20">click here</a> to auto-compose the e-mail, but replace "firstname" and "lastname" in the subject line to your first name and last name respectively (leave the message body blank). In case the link doesn't work, please send an e-mail to <a href="mailto:list@list.arizona.edu">list@list.arizona.edu</a> with an empty message body and the subject 'subscribe isit-quik24 firstname lastname' (ignore the quotes and replace placeholders with your first and last names). If you do not receive a welcome message from the list within 30 minutes, please contact us (see bottom of this page).
 </h3>
 
@@ -148,8 +151,13 @@ We invite interested authors to submit their previously unpublished work in the 
 
 <h4 style="color:#F28C28"> Paper Submission Details: </h4>
 <h4> 
-The link to submit your papers will be made available soon. All papers must be formatted as per the requirements of a standard ISIT paper. <br>
+Submit your papers via <a href="https://openreview.net/group?id=IEEE.org/ISIT/2024/Workshop/QuIK">OpenReview</a>. In the field called <font color="#F28C28">"TL;DR"</font>, specify if it is a paper or poster submission. All papers must be formatted as per the requirements of a standard ISIT paper. Note the OpenReview moderation policy: <br>
 <br>
+  <ul>
+    <li>New profiles created <font color="#F28C28">without an institutional email</font> will go through a moderation process that can take <font color="#F28C28">up to two weeks</font> </li>
+	<li>New profiles created <font color="#F28C28">with an institutional email</font> will be activated <font color="#F28C28">automatically</font> </li>
+  </ul>
+  
 Please click <a href="https://2024.ieee-isit.org/information-authors-0">here</a> for the website containing the information for authors such as paper format, template and example. Each paper will go through a rigorous review process. An author of an accepted paper must register and present a poster based on the paper at the workshop. The requirements of the poster will be communicated with the acceptance notification for the paper. Only the accepted papers that are presented as posters will be published on IEEE Xplore. Please note that these papers are not eligible for the Jack Keil Wolf ISIT Student Paper Award. 
 </h4>
 
@@ -162,8 +170,13 @@ Each poster will go through a rigorous review process. An author of an accepted 
 
 <h4 style="color:#F28C28"> Poster Submission Details: </h4>
 <h4> 
-The link to submit your entries will be made available soon.<br>
+Submit your posters via <a href="https://openreview.net/group?id=IEEE.org/ISIT/2024/Workshop/QuIK">OpenReview</a>. In the field called <font color="#F28C28">"TL;DR"</font>, specify if it is a paper or poster submission. Note the OpenReview moderation policy: <br>
 <br>
+  <ul>
+    <li>New profiles created <font color="#F28C28">without an institutional email</font> will go through a moderation process that can take <font color="#F28C28">up to two weeks</font> </li>
+	<li>New profiles created <font color="#F28C28">with an institutional email</font> will be activated <font color="#F28C28">automatically</font> </li>
+  </ul>
+  
 To make your submission for a poster on an open problem, please write a 3-page extended abstract describing the challenge and the tentative contents of the poster. The font size must be at least 11 with reasonable margins. The page limit excludes references. This must not be a summary of a paper but an insightful description of a key problem in QEC for FTQC that is accessible to a classical information/coding theorist. The submission can be based on published work, but the poster must discuss an unsolved challenge related to that work and not just present the results of that work. In the abstract, also provide a rough sketch of how you intend to communicate the challenge in the poster format.
 </h4> 
 
