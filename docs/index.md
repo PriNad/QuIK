@@ -183,9 +183,9 @@ To make your submission for a poster on an open problem, please write a 3-page e
 
 ## Important Dates:
 <h3>
-Paper submission deadline: <font color="#F28C28"> 3rd March 2024 </font> (11:59 PM anywhere in the world) <br>
+Paper submission deadline: <font color="#F28C28"> <s>3rd March 2024</s> </font> <s>(11:59 PM anywhere in the world)</s> <br>
 <br>
-Poster submission deadline: <font color="#F28C28"> 3rd March 2024 </font> (11:59 PM anywhere in the world) <br>
+Poster submission deadline: <font color="#F28C28"> 17th March 2024 </font> (11:59 PM anywhere in the world) <br>
 <br>
 Acceptance notification: TBD <br>
 <br>
