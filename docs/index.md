@@ -5,6 +5,7 @@
 <figure>
   <div style="text-align: center;">
     <img src="assets/images/QuIK_Logo.ico" alt="Trulli" style="width:50%">
+	<img src="assets/images/CQN_Logo.png" alt="Trulli" style="width:50%">
   </div>
 </figure>       
 
@@ -185,34 +186,37 @@ To make your submission for a poster on an open problem, please write a 3-page e
 <h3>
 Paper submission deadline: <font color="#F28C28"> <s>3rd March 2024</s> </font> <s>(11:59 PM anywhere in the world)</s> <br>
 <br>
-Poster submission deadline: <font color="#F28C28"> 17th March 2024 </font> (11:59 PM anywhere in the world) <br>
+Poster submission deadline: <font color="#F28C28"> <s>17th March 2024</s> </font> <s>(11:59 PM anywhere in the world)</s> <br>
 <br>
-Acceptance notification: TBD <br>
+Acceptance notification: <font color="#F28C28"> 26th April 2024 </font> <br>
 <br>
-Final manuscript submission: TBD <br>
+Final manuscript submission: <font color="#F28C28"> 13th May 2024 </font> <br>
 <br>
-Early registration deadline: Refer <a href="https://2024.ieee-isit.org/workshops">ISIT 2024 website</a> 
+Early registration deadline: <font color="#F28C28"> 13th May 2024 </font>
 </h3> 
 
 ## Registration Details: 
 <h3>
-Please refer to the <a href="https://2024.ieee-isit.org/workshops">ISIT website</a> for workshop registration. Some funds will be available to provide partial financial support to QEC/FTQC researchers who do not normally attend ISIT. We are excited about enabling fruitful interactions between the QEC/FTQC community and classical information/coding theorists!
+Please refer to the <a href="https://2024.ieee-isit.org/registration-0">ISIT 2024 website</a> for workshop registration. Some funds will be available to provide partial financial support to QEC/FTQC researchers who do not normally attend ISIT. We are excited about enabling fruitful interactions between the QEC/FTQC community and classical information/coding theorists!
 </h3> 
 
 ## We look forward to seeing you at the workshop!
 
 ## QuIK'24 Organizers:
 <h3>
-Bane Vasić, University of Arizona <br>
+Priya J. Nadkarni, Xanadu Quantum Technologies <br>
 Narayanan Rengaswamy, University of Arizona <br>
-Priya J. Nadkarni, Xanadu Quantum Technologies
+Bane Vasić, University of Arizona
 </h3>
 
+<!--
 ## Frequently Asked Questions (FAQs):
 <h3>
 To be updated <br>
 <br>
+-->
+<h3>
 Questions? <a href="mailto:narayananr@arizona.edu?cc=priya@xanadu.ai; vasic@ece.arizona.edu&subject=QuIK%202024">E-mail Narayanan Rengaswamy with Cc to Priya Nadkarni and Bane Vasić</a>
 </h3> 
 
-<h4 style="text-align:center"> Webpage last updated: January 25, 2024 </h4>
+<h4 style="text-align:center"> Webpage last updated: April 26, 2024 </h4>
