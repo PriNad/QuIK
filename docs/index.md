@@ -53,7 +53,7 @@ tr:nth-child(odd) {
   </tr>
   <tr>
     <td>10:00 - 10:50</td>
-    <td>Keynote Talk</td>
+    <td>Keynote Talk: <font color="#F28C28">Liang Jiang</font></td>
   </tr>
   <tr style="background-color: #F28C28">
     <td>10:50 - 11:00</td>
@@ -61,15 +61,15 @@ tr:nth-child(odd) {
   </tr>
   <tr>
     <td>11:00 - 11:25</td>
-    <td>Invited Talk 1</td>
+    <td>Invited Talk 1: <font color="#F28C28">Valentin Savin</font></td>
   </tr>
   <tr>
     <td>11:25 - 11:50</td>
-    <td>Invited Talk 2</td>
+    <td>Invited Talk 2: <font color="#F28C28">Nithin Raveendran</font></td>
   </tr>
   <tr>
     <td>11:50 - 12:15</td>
-    <td>Invited Talk 3</td>
+    <td>Invited Talk 3: <font color="#F28C28">Priya J. Nadkarni</font></td>
   </tr>
   <tr style="background-color: #F28C28">
     <td>12:15 - 13:15</td>
@@ -77,11 +77,11 @@ tr:nth-child(odd) {
   </tr>
   <tr>
     <td>13:15 - 13:40</td>
-    <td>Invited Talk 4</td>
+    <td>Invited Talk 4: <font color="#F28C28">Anirudh Krishna</font></td>
   </tr>
   <tr>
     <td>13:40 - 14:05</td>
-    <td>Invited Talk 5</td>
+    <td>Invited Talk 5: <font color="#F28C28">Armanda O. Quintavalle</font></td>
   </tr>
   <tr style="background-color: #F28C28">
     <td>14:05 - 14:10</td>
@@ -89,11 +89,11 @@ tr:nth-child(odd) {
   </tr>
   <tr>
     <td>14:10 - 14:35</td>
-    <td>Invited Talk 6</td>
+    <td>Invited Talk 6: <font color="#F28C28">Gretchen Matthews</font></td>
   </tr>
   <tr>
     <td>14:35 - 15:00</td>
-    <td>Invited Talk 7</td>
+    <td>Invited Talk 7: <font color="#F28C28">Shayan Srinivasa Garani</font></td>
   </tr>
   <tr style="background-color: #F28C28">
     <td>15:00 - 15:15</td>
@@ -188,11 +188,11 @@ Paper submission deadline: <font color="#F28C28"> <s>3rd March 2024</s> </font> 
 <br>
 Poster submission deadline: <font color="#F28C28"> <s>17th March 2024</s> </font> <s>(11:59 PM anywhere in the world)</s> <br>
 <br>
-Acceptance notification: <font color="#F28C28"> 26th April 2024 </font> <br>
+Acceptance notification: <font color="#F28C28"> <s>26th April 2024</s> </font> <br>
 <br>
-Final manuscript submission: <font color="#F28C28"> 13th May 2024 </font> <br>
+Final manuscript submission: <font color="#F28C28"> <s>13th May 2024</s> </font> <br>
 <br>
-Early registration deadline: <font color="#F28C28"> 13th May 2024 </font>
+Early registration deadline: <font color="#F28C28"> <s>13th May 2024</s> </font>
 </h3> 
 
 ## Registration Details: 
