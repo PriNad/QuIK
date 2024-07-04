@@ -125,9 +125,9 @@ The tutorial, presentations, and discussions in this workshop would cover a broa
 </h3>
 <!-- end of the list -->
 
-## Workshop date:
+## Workshop date and venue:
 <h3> 
-Full-day workshop (in-person) on July 7, 2024 (Sunday)
+Full-day workshop (in-person) on July 7, 2024 (Sunday) in room <font color="#F28C28"><a href="https://cmsworkshops.com/ISIT2024/technical_program.php"> Ypsilon I-II-III </a></font> of Athenaeum Intercontinental Athens
 </h3>
 
 ## Invited Speakers List:
@@ -191,7 +191,7 @@ Invited talks by fault-tolerant quantum computing experts from different backgro
 	<font color="#F28C28">Abstract:</font> In this talk, I will present Xanadu's scalable photonic fault-tolerant quantum computing architecture that uses the bosonic Gottesman-Kitaev-Preskill (GKP) code concatenated with a quantum low-density parity check (LDPC) code, that can be realized using static linear optical elements. I will discuss the quantum optical circuits designed to build the quantum computer and the mathematical equivalence between these quantum optical circuits and the qubit-level computational resource state. Finally, I will link the problems relevant to the embedded quantum error correction codes to well-studied techniques in classical error correction. <br>
 	<br>
 	
-	<font color="#F28C28">Bio:</font> Priya J Nadkarni received her B.E. in electronics and communication engineering from the BMS College of Engineering, Bengaluru. She completed her M.Sc. and Ph.D. in Engineering at the Indian Institute of Science (IISc), Bengaluru, with a focus on entanglement-assisted additive qudit stabilizer codes and quantum distributed storage networks. She is currently a senior quantum architecture scientist at Xanadu designing various quantum error correction techniques for fault-tolerant photonic quantum computers based on bosonic qubits. Her research interests include quantum error correction codes, fault-tolerant quantum computation, quantum circuit architectures, quantum algorithms, and quantum communication. Her research work has been presented at various top-tier conferences and has been published in various top-tier journals. She has been a part of many executive committees at IEEE-IISc and is a HKN member.
+	<font color="#F28C28">Bio:</font> Priya J. Nadkarni received her B.E. in electronics and communication engineering from the BMS College of Engineering, Bengaluru. She completed her M.Sc. and Ph.D. in Engineering at the Indian Institute of Science (IISc), Bengaluru, with a focus on entanglement-assisted additive qudit stabilizer codes and quantum distributed storage networks. She is currently a senior quantum architecture scientist at Xanadu designing various quantum error correction techniques for fault-tolerant photonic quantum computers based on bosonic qubits. Her research interests include quantum error correction codes, fault-tolerant quantum computation, quantum circuit architectures, quantum algorithms, and quantum communication. Her research work has been presented at various top-tier conferences and has been published in various top-tier journals. She has been a part of many executive committees at IEEE-IISc and is a HKN member.
 	</h4>
 	
 	
@@ -203,7 +203,7 @@ Invited talks by fault-tolerant quantum computing experts from different backgro
 	<font color="#F28C28">Title:</font> Tradeoffs between connectivity and codes <br>
 	<br>
 	
-	<font color="#F28C28">Abstract:</font> For quantum error-correcting codes to be realizable, it is important that the qubits subject to the code constraints exhibit some form of limited connectivity. The works of Bravyi & Terhal (BT) and Bravyi, Poulin & Terhal (BPT) established that geometric locality constrains code properties -- for instance [[n,k,d]] quantum codes defined by local checks on the D-dimensional lattice must obey kd2/(D−1)≤O(n). Baspin and Krishna studied the more general question of how the connectivity graph associated with a quantum code constrains the code parameters. These trade-offs apply to a richer class of codes compared to the BPT and BT bounds, which only capture geometrically-local codes. We extend and improve this work, establishing a tighter dimension-distance trade-off as a function of the size of separators in the connectivity graph. We also obtain a distance bound that covers all stabilizer codes with a particular separation profile, rather than only LDPC codes. <br>
+	<font color="#F28C28">Abstract:</font> For quantum error-correcting codes to be realizable, it is important that the qubits subject to the code constraints exhibit some form of limited connectivity. The works of Bravyi & Terhal (BT) and Bravyi, Poulin & Terhal (BPT) established that geometric locality constrains code properties -- for instance \( [[ n,k,d ]] \) quantum codes defined by local checks on the \(D\)-dimensional lattice must obey \( \frac{kd^2}{D−1} \leq O(n) \). Baspin and Krishna studied the more general question of how the connectivity graph associated with a quantum code constrains the code parameters. These trade-offs apply to a richer class of codes compared to the BPT and BT bounds, which only capture geometrically-local codes. We extend and improve this work, establishing a tighter dimension-distance trade-off as a function of the size of separators in the connectivity graph. We also obtain a distance bound that covers all stabilizer codes with a particular separation profile, rather than only LDPC codes. <br>
 	<br>
 
 	 This talk is based on the following papers:  <a href="https://arxiv.org/abs/2106.00765">https://arxiv.org/abs/2106.00765</a> , <a href="https://arxiv.org/abs/2109.10982">https://arxiv.org/abs/2109.10982</a> , <a href="https://arxiv.org/abs/2307.03283">https://arxiv.org/abs/2307.03283</a> . <br>
@@ -317,7 +317,7 @@ Final manuscript submission: <font color="#F28C28"> <s>13th May 2024</s> </font>
 <br>
 Early registration deadline: <font color="#F28C28"> <s>13th May 2024</s> </font> <s>(11:59 PM anywhere in the world)</s> <br>
 <br>
-Online registration deadline: <font color="#F28C28"> 30th June 2024 </font> (11:59 PM anywhere in the world) <br>
+Online registration deadline: <font color="#F28C28"> <s>30th June 2024</s> </font> <s>(11:59 PM anywhere in the world)</s> <br>
 <br>
 After this date, you will need to register at the on-site registration desks at the convention venue starting July 6.
 </h3> 
@@ -346,4 +346,4 @@ To be updated <br>
 Questions? <a href="mailto:narayananr@arizona.edu?cc=priya@xanadu.ai; vasic@ece.arizona.edu&subject=QuIK%202024">E-mail Narayanan Rengaswamy with Cc to Priya Nadkarni and Bane Vasić</a>
 </h3> 
 
-<h4 style="text-align:center"> Webpage last updated: June 23, 2024 </h4>
+<h4 style="text-align:center"> Webpage last updated: July 3, 2024 </h4>
